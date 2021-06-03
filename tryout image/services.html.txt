@@ -1,0 +1,14 @@
+<html>
+
+	<head><title>VOLT ELECTRONICS.com</title>
+	</head>
+<center>
+<body>
+	<img src="start.jpg" width="180px" height="75px" align="left"><br>
+	&nbsp; <br>
+	<hr>
+	<h3> PRODUCTS / SERVICES PROVIDED
+	<hr>
+</body>
+</center>
+</html>
