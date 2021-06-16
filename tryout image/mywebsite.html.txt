@@ -1,7 +1,0 @@
-<html>
-	<head><title>VOLT ELECTRONICS.com</title>
-	</head>
-<body>
-	HOME~ABOUT~SERVICE/PRODUCT~ENQUIRIES
-</body>
-</html>
